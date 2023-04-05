@@ -6,3 +6,4 @@
 # Using my "coef." and "intercept", I write function "sigmoid" that contain this pattern """1 / (1 + math.exp(-x))"""
 # And create another function "prediction_function" that contain pattern to calculate probalility using "coef" and "intercept" """0.123 * age - 4.72"""
 # As "y" i use my "sigmoid" function """sigmoid(z)""" and "z" is my pattern
+# Finally i can predict the probability """prediction_function(age)"""
